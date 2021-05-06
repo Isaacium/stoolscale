@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
+baseurl = "https://stoolscale.pages.dev/"
 title = "Stool Scale"
 theme = "vex-hugo"
 # post excert
